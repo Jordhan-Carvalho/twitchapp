@@ -1,3 +1,5 @@
-Online preview at: well-off-wave.surge.sh
+Live at: http://well-off-wave.surge.sh
+
+Simple web app using twitch API
 
  
